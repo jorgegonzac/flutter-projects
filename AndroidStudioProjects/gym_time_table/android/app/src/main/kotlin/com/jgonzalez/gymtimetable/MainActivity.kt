@@ -1,0 +1,6 @@
+package com.jgonzalez.gymtimetable
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
